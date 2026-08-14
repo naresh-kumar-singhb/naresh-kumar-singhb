@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Aspiring+AI+Engineer;Machine+Learning+Enthusiast;Building+AI+Projects;Always+Learning+Something+New" />
 </p>
 <p align="center">
-  <img src="./anime-coder.gif" width="500">
+  <img src="./anime_coder_headphones.gif" width="500">
 </p>
 <h2 align="center">🛠️ Skills</h2>
 
